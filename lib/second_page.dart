@@ -7,7 +7,7 @@ class SecondPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("SECOND PAGE"),
+        title: Text("SECOND PAGE1"),
       ),
       body: Center(
         child: RaisedButton(
